@@ -129,7 +129,7 @@
 				TargetAttributes = {
 					899F12631DD7E3BA0057EABE = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = G76E985X3G;
+						DevelopmentTeam = 2W5KZ4543A;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -343,11 +343,11 @@
 			baseConfigurationReference = 9D8DC1AB77E98F2EB80B9173 /* Pods-WeatherApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = G76E985X3G;
+				DEVELOPMENT_TEAM = 2W5KZ4543A;
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.BETA-yamato.WeatherApp";
+				PRODUCT_BUNDLE_IDENTIFIER = com.WeatherApp.crazyboy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -358,11 +358,11 @@
 			baseConfigurationReference = C7911041256455922BC7535A /* Pods-WeatherApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = G76E985X3G;
+				DEVELOPMENT_TEAM = 2W5KZ4543A;
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.BETA-yamato.WeatherApp";
+				PRODUCT_BUNDLE_IDENTIFIER = com.WeatherApp.crazyboy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
