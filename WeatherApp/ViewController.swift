@@ -30,6 +30,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var afterTomorrowWeatherLabel: UILabel!
     @IBOutlet weak var afterTomorrowTemperatureLabel: UILabel!
     
+    @IBAction func zenkokubutton(_ sender: UIButton) {
+    }
     
     override func viewDidLoad() {
         super.viewDidLoad()
